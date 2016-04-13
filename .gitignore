@@ -1,0 +1,15 @@
+*.iml
+local.properties
+*.DS_Store
+Thumbs.db
+.idea/workspace.xml
+.idea/uiDesigner.xml
+.idea/checkstyle-idea.xml
+.idea/gradle.xml
+.idea/libraries/
+.idea/dictionaries/
+out/
+build/
+/.gradle
+/signedBuilds
+/local.properties

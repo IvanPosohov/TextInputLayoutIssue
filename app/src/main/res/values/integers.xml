@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- do not look for meaning of this number, it's just random -->
+    <integer name="action_sign_in">2857</integer>
+</resources>
